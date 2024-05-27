@@ -4,7 +4,7 @@ Config = Config or {}
 Config.RealtorJobName = "realestate"
 
 -- Set this value to true if you want to use the command to open the Housing Menu(Realtor Menu)
-Config.UseCommand = true
+Config.UseCommand = false
 
 -- Set this value to TRUE if you want to use the Config.ItemName as a usable Item to open the Housing Menu(Realtor Menu)
 Config.UseItem = true
